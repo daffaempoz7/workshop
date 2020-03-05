@@ -55,6 +55,6 @@ void loop() {
 
     if (doUpdateCheck == true){
     DownloadBin();
-    doUpdateCheck = false;
+    doUpdateCheck = false; //cek
   }
 }
